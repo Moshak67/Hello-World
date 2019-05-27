@@ -1,2 +1,8 @@
 # Hello-World
-This is my first attempt in github
+hello people 
+this my name is Mo and im new to github
+im here to learn and improve my coding skill
+
+
+
+
